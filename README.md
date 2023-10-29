@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hi, I’m @Jonathan Happy (J_Tech)
+👀 I’m interested in software enginering
+🌱 I’m currently learning JAVA
+💞️ I’m looking to collaborate on java projet
+📫 How to reach me jonathanlipro@gmail.com
 
 <!--
 **Jonathanhappy/Jonathanhappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
